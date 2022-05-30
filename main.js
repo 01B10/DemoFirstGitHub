@@ -153,7 +153,6 @@ function displayCart() {
     }
 }
 
-localStorage.removeItem("products")
 displayCart();
 
 ByPoint();
